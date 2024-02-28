@@ -205,7 +205,7 @@ function loadImage(imgIndex) {
 
 //MOSTRAR IMAGENES CON EL TEXTO
 var imgList = ['./images/img_1.jpg', './images/img_2.jpg', './images/img_3.jpg', './images/img_4.jpg', './images/img_5.jpg', './images/img_6.jpg', './images/img_7.jpg'];
-var imgDescList = ['','Tú y yo, juntos para siempre.','','Cada momento a tu lado es un regalo único.','En tus ojos encuentro mi paz y en tus labios mi felicidad.','Mi corazón late por ti.', 'Contigo, todo es perfecto, TE❤AMO'];
+var imgDescList = ['','Tú y yo, juntos para siempre.','','Cada momento a tu lado es un regalo único.','En tus ojos encuentro mi paz y en tus labios mi felicidad.','Mi corazón late por ti.', 'Contigo, todo es perfecto. TE❤AMO'];
 var isInitImage = false;
 var imgIndex = 0;
 function setTimer(){
